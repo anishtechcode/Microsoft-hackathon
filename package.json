@@ -1,0 +1,8 @@
+{
+  "name": "recalldesk",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "start": "vercel dev", "dev": "vercel dev", "build": "node --check api/agent.js && node --check api/hindsight.js", "test": "node --test tests/*.test.js" },
+  "engines": { "node": ">=20" }
+}

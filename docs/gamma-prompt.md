@@ -1,0 +1,3 @@
+# Gamma prompt
+
+Create a restrained, premium 10-slide presentation for RecallDesk, an AI support workspace. Use deep navy, off-white, slate, and a small indigo accent; avoid gradients, 3D, and stock-photo clichés. Explain that Hindsight is the actual persistent memory layer. Include a clear lifecycle diagram: customer ticket → Hindsight recall → memory-informed support response → resolution → Hindsight retain → future recall. Use product screenshots from the working RecallDesk UI when available. Base the narrative on Aarav Mehta’s CloudSync repeat-sync issue: reinstall and cache clearing failed; network configuration worked; a new Wi-Fi-specific resolution is retained and later recalled.
